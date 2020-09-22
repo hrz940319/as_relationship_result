@@ -1,0 +1,1002 @@
+GT:  50607 204086	0
+  rel in t1： -1
+GT:  50607 57608	0
+  rel in t1： -1
+GT:  48347 57456	0
+  rel in t1： -1
+GT:  50607 51648	0
+  rel in t1： -1
+GT:  50607 35787	0
+  rel in t1： -1
+GT:  50607 59444	0
+  rel in t1： -1
+GT:  50607 42261	0
+  rel in t1： -1
+GT:  50607 203778	0
+  rel in t1： -1
+GT:  50607 202126	0
+  rel in t1： -1
+GT:  50607 51426	0
+  rel in t1： -1
+GT:  50607 204568	0
+  rel in t1： -1
+GT:  50607 50188	0
+  rel in t1： -1
+GT:  50607 199061	0
+  rel in t1： -1
+GT:  50607 57055	0
+  rel in t1： -1
+GT:  50607 50550	0
+  rel in t1： -1
+GT:  50607 8819	0
+  rel in t1： -1
+GT:  50607 210256	0
+  rel in t1： -1
+GT:  50607 51310	0
+  rel in t1： -1
+GT:  50607 206314	0
+  rel in t1： -1
+GT:  50607 204930	0
+  rel in t1： -1
+GT:  50607 196883	0
+  rel in t1： -1
+GT:  50607 198151	0
+  rel in t1： -1
+GT:  50607 206455	0
+  rel in t1： -1
+GT:  50607 51948	0
+  rel in t1： -1
+GT:  50607 198948	0
+  rel in t1： -1
+GT:  50607 207500	0
+  rel in t1： -1
+GT:  50607 56575	0
+  rel in t1： -1
+GT:  1299 174	0
+  rel in t1： -1
+GT:  1299 6762	0
+  rel in t1： -1
+GT:  50607 50994	0
+  rel in t1： -1
+GT:  9198 8393	0
+  rel in t1： -1
+GT:  9198 41124	0
+  rel in t1： -1
+GT:  48347 43865	0
+  rel in t1： -1
+GT:  50607 208041	0
+  rel in t1： -1
+GT:  12389 49544	0
+  rel in t1： -1
+GT:  9198 48503	0
+  rel in t1： -1
+GT:  21151 15458	0
+  rel in t1： -1
+GT:  9198 49089	0
+  rel in t1： -1
+GT:  9198 207966	0
+  rel in t1： -1
+GT:  50607 34393	0
+  rel in t1： -1
+GT:  50607 59990	0
+  rel in t1： -1
+GT:  50607 35007	0
+  rel in t1： -1
+GT:  50607 196927	0
+  rel in t1： -1
+GT:  50607 51636	0
+  rel in t1： -1
+GT:  50607 61056	0
+  rel in t1： -1
+GT:  50607 60755	0
+  rel in t1： -1
+GT:  50607 3169	0
+  rel in t1： -1
+GT:  50607 60964	0
+  rel in t1： -1
+GT:  50607 203765	0
+  rel in t1： -1
+GT:  50607 198537	0
+  rel in t1： -1
+GT:  50607 205296	0
+  rel in t1： -1
+GT:  50607 203566	0
+  rel in t1： -1
+GT:  50607 48694	0
+  rel in t1： -1
+GT:  9198 59583	0
+  rel in t1： -1
+GT:  9198 61010	0
+  rel in t1： -1
+GT:  3356 7922	0
+  rel in t1： -1
+GT:  48347 50182	0
+  rel in t1： -1
+GT:  48347 43667	0
+  rel in t1： -1
+GT:  48347 62356	0
+  rel in t1： -1
+GT:  48347 25341	0
+  rel in t1： -1
+GT:  48347 207676	0
+  rel in t1： -1
+GT:  48347 204623	0
+  rel in t1： -1
+GT:  48347 49863	0
+  rel in t1： -1
+GT:  48347 39462	0
+  rel in t1： -1
+GT:  48347 49155	0
+  rel in t1： -1
+GT:  48347 41639	0
+  rel in t1： -1
+GT:  48347 201131	0
+  rel in t1： -1
+GT:  48347 29588	0
+  rel in t1： -1
+GT:  48347 57113	0
+  rel in t1： -1
+GT:  48347 57712	0
+  rel in t1： -1
+GT:  48347 205595	0
+  rel in t1： -1
+GT:  50607 51619	0
+  rel in t1： -1
+GT:  50607 199494	0
+  rel in t1： -1
+GT:  50607 35306	0
+  rel in t1： -1
+GT:  50607 197418	0
+  rel in t1： -1
+GT:  50607 57945	0
+  rel in t1： -1
+GT:  50607 200001	0
+  rel in t1： -1
+GT:  50607 205776	0
+  rel in t1： -1
+GT:  50607 198401	0
+  rel in t1： -1
+GT:  50607 205674	0
+  rel in t1： -1
+GT:  50607 209801	0
+  rel in t1： -1
+GT:  50607 200602	0
+  rel in t1： -1
+GT:  50607 33923	0
+  rel in t1： -1
+GT:  50607 197310	0
+  rel in t1： -1
+GT:  50607 210014	0
+  rel in t1： -1
+GT:  50607 199585	0
+  rel in t1： -1
+GT:  50607 49290	0
+  rel in t1： -1
+GT:  50607 35585	0
+  rel in t1： -1
+GT:  50607 197318	0
+  rel in t1： -1
+GT:  50607 198430	0
+  rel in t1： -1
+GT:  50607 199965	0
+  rel in t1： -1
+GT:  50607 34169	0
+  rel in t1： -1
+GT:  50607 202228	0
+  rel in t1： -1
+GT:  50607 56475	0
+  rel in t1： -1
+GT:  50607 201953	0
+  rel in t1： -1
+GT:  50607 56983	0
+  rel in t1： -1
+GT:  50607 198317	0
+  rel in t1： -1
+GT:  50607 51394	0
+  rel in t1： -1
+GT:  50607 61233	0
+  rel in t1： -1
+GT:  50607 59958	0
+  rel in t1： -1
+GT:  50607 204700	0
+  rel in t1： -1
+GT:  50607 60782	0
+  rel in t1： -1
+GT:  50607 40961	0
+  rel in t1： -1
+GT:  50607 43495	0
+  rel in t1： -1
+GT:  50607 61134	0
+  rel in t1： -1
+GT:  50607 200438	0
+  rel in t1： -1
+GT:  50607 207073	0
+  rel in t1： -1
+GT:  50607 198529	0
+  rel in t1： -1
+GT:  50607 204019	0
+  rel in t1： -1
+GT:  50607 47252	0
+  rel in t1： -1
+GT:  50607 30838	0
+  rel in t1： -1
+GT:  50607 201661	0
+  rel in t1： -1
+GT:  50607 206162	0
+  rel in t1： -1
+GT:  50607 199381	0
+  rel in t1： -1
+GT:  50607 50411	0
+  rel in t1： -1
+GT:  50607 59607	0
+  rel in t1： -1
+GT:  50607 205679	0
+  rel in t1： -1
+GT:  50607 209328	0
+  rel in t1： -1
+GT:  50607 48742	0
+  rel in t1： -1
+GT:  50607 59670	0
+  rel in t1： -1
+GT:  50607 199416	0
+  rel in t1： -1
+GT:  50607 198909	0
+  rel in t1： -1
+GT:  50607 61154	0
+  rel in t1： -1
+GT:  50607 197838	0
+  rel in t1： -1
+GT:  50607 24577	0
+  rel in t1： -1
+GT:  50607 197833	0
+  rel in t1： -1
+GT:  50607 202478	0
+  rel in t1： -1
+GT:  50607 198418	0
+  rel in t1： -1
+GT:  50607 199888	0
+  rel in t1： -1
+GT:  50607 199550	0
+  rel in t1： -1
+GT:  50607 30793	0
+  rel in t1： -1
+GT:  50607 200410	0
+  rel in t1： -1
+GT:  50607 201925	0
+  rel in t1： -1
+GT:  50607 199319	0
+  rel in t1： -1
+GT:  50607 198035	0
+  rel in t1： -1
+GT:  50607 198498	0
+  rel in t1： -1
+GT:  50607 202805	0
+  rel in t1： -1
+GT:  50607 206910	0
+  rel in t1： -1
+GT:  50607 200577	0
+  rel in t1： -1
+GT:  50607 209062	0
+  rel in t1： -1
+GT:  50607 198709	0
+  rel in t1： -1
+GT:  50607 47850	0
+  rel in t1： -1
+GT:  50607 56712	0
+  rel in t1： -1
+GT:  50607 198397	0
+  rel in t1： -1
+GT:  50607 197262	0
+  rel in t1： -1
+GT:  50607 51960	0
+  rel in t1： -1
+GT:  50607 198424	0
+  rel in t1： -1
+GT:  50607 202004	0
+  rel in t1： -1
+GT:  50607 201314	0
+  rel in t1： -1
+GT:  50607 199341	0
+  rel in t1： -1
+GT:  50607 206369	0
+  rel in t1： -1
+GT:  50607 57263	0
+  rel in t1： -1
+GT:  50607 203306	0
+  rel in t1： -1
+GT:  50607 208399	0
+  rel in t1： -1
+GT:  50607 205447	0
+  rel in t1： -1
+GT:  50607 200125	0
+  rel in t1： -1
+GT:  50607 206184	0
+  rel in t1： -1
+GT:  50607 49787	0
+  rel in t1： -1
+GT:  8359 28709	0
+  rel in t1： -1
+GT:  47541 8359	0
+  rel in t1： -1
+GT:  50607 203667	0
+  rel in t1： -1
+GT:  50607 50584	0
+  rel in t1： -1
+GT:  50607 203140	0
+  rel in t1： -1
+GT:  50607 56783	0
+  rel in t1： -1
+GT:  50607 41522	0
+  rel in t1： -1
+GT:  50607 206674	0
+  rel in t1： -1
+GT:  50607 199451	0
+  rel in t1： -1
+GT:  50607 205871	0
+  rel in t1： -1
+GT:  50607 59556	0
+  rel in t1： -1
+GT:  50607 203230	0
+  rel in t1： -1
+GT:  50607 200274	0
+  rel in t1： -1
+GT:  50607 199517	0
+  rel in t1： -1
+GT:  50607 199201	0
+  rel in t1： -1
+GT:  50607 48956	0
+  rel in t1： -1
+GT:  50607 199723	0
+  rel in t1： -1
+GT:  50607 197892	0
+  rel in t1： -1
+GT:  50607 52101	0
+  rel in t1： -1
+GT:  50607 205443	0
+  rel in t1： -1
+GT:  50607 199846	0
+  rel in t1： -1
+GT:  50607 200889	0
+  rel in t1： -1
+GT:  50607 28978	0
+  rel in t1： -1
+GT:  50607 203263	0
+  rel in t1： -1
+GT:  50607 206762	0
+  rel in t1： -1
+GT:  50607 206581	0
+  rel in t1： -1
+GT:  50607 48157	0
+  rel in t1： -1
+GT:  50607 197295	0
+  rel in t1： -1
+GT:  50607 205856	0
+  rel in t1： -1
+GT:  50607 30813	0
+  rel in t1： -1
+GT:  50607 198560	0
+  rel in t1： -1
+GT:  50607 39893	0
+  rel in t1： -1
+GT:  50607 200862	0
+  rel in t1： -1
+GT:  50607 60920	0
+  rel in t1： -1
+GT:  50607 197672	0
+  rel in t1： -1
+GT:  50607 201091	0
+  rel in t1： -1
+GT:  50607 59415	0
+  rel in t1： -1
+GT:  50607 198655	0
+  rel in t1： -1
+GT:  50607 198235	0
+  rel in t1： -1
+GT:  50607 56628	0
+  rel in t1： -1
+GT:  50607 203741	0
+  rel in t1： -1
+GT:  50607 201754	0
+  rel in t1： -1
+GT:  50607 200594	0
+  rel in t1： -1
+GT:  50607 48626	0
+  rel in t1： -1
+GT:  50607 200750	0
+  rel in t1： -1
+GT:  50607 205608	0
+  rel in t1： -1
+GT:  50607 34969	0
+  rel in t1： -1
+GT:  50607 199005	0
+  rel in t1： -1
+GT:  50607 49528	0
+  rel in t1： -1
+GT:  50607 41952	0
+  rel in t1： -1
+GT:  50607 202971	0
+  rel in t1： -1
+GT:  50607 201068	0
+  rel in t1： -1
+GT:  50607 208141	0
+  rel in t1： -1
+GT:  50607 208145	0
+  rel in t1： -1
+GT:  50607 199943	0
+  rel in t1： -1
+GT:  50607 2821	0
+  rel in t1： -1
+GT:  50607 197605	0
+  rel in t1： -1
+GT:  50607 199138	0
+  rel in t1： -1
+GT:  50607 47275	0
+  rel in t1： -1
+GT:  50607 197849	0
+  rel in t1： -1
+GT:  50607 33901	0
+  rel in t1： -1
+GT:  50607 209597	0
+  rel in t1： -1
+GT:  50607 49888	0
+  rel in t1： -1
+GT:  50607 202839	0
+  rel in t1： -1
+GT:  50607 47884	0
+  rel in t1： -1
+GT:  50607 56949	0
+  rel in t1： -1
+GT:  50607 199774	0
+  rel in t1： -1
+GT:  50607 209086	0
+  rel in t1： -1
+GT:  50607 202434	0
+  rel in t1： -1
+GT:  50607 198007	0
+  rel in t1： -1
+GT:  50607 52195	0
+  rel in t1： -1
+GT:  50607 201001	0
+  rel in t1： -1
+GT:  50607 201122	0
+  rel in t1： -1
+GT:  50607 12642	0
+  rel in t1： -1
+GT:  50607 202281	0
+  rel in t1： -1
+GT:  50607 196969	0
+  rel in t1： -1
+GT:  50607 15624	0
+  rel in t1： -1
+GT:  50607 198269	0
+  rel in t1： -1
+GT:  50607 59686	0
+  rel in t1： -1
+GT:  50607 202936	0
+  rel in t1： -1
+GT:  50607 203687	0
+  rel in t1： -1
+GT:  50607 52009	0
+  rel in t1： -1
+GT:  50607 202994	0
+  rel in t1： -1
+GT:  50607 201427	0
+  rel in t1： -1
+GT:  50607 50231	0
+  rel in t1： -1
+GT:  50607 203505	0
+  rel in t1： -1
+GT:  50607 199510	0
+  rel in t1： -1
+GT:  50607 200672	0
+  rel in t1： -1
+GT:  50607 204522	0
+  rel in t1： -1
+GT:  50607 203632	0
+  rel in t1： -1
+GT:  50607 60810	0
+  rel in t1： -1
+GT:  50607 35760	0
+  rel in t1： -1
+GT:  50607 198098	0
+  rel in t1： -1
+GT:  50607 197345	0
+  rel in t1： -1
+GT:  50607 57592	0
+  rel in t1： -1
+GT:  50607 198604	0
+  rel in t1： -1
+GT:  50607 197049	0
+  rel in t1： -1
+GT:  50607 60884	0
+  rel in t1： -1
+GT:  50607 200142	0
+  rel in t1： -1
+GT:  50607 41841	0
+  rel in t1： -1
+GT:  50607 196681	0
+  rel in t1： -1
+GT:  50607 197747	0
+  rel in t1： -1
+GT:  50607 204971	0
+  rel in t1： -1
+GT:  50607 206048	0
+  rel in t1： -1
+GT:  50607 201332	0
+  rel in t1： -1
+GT:  50607 197146	0
+  rel in t1： -1
+GT:  50607 48727	0
+  rel in t1： -1
+GT:  50607 50705	0
+  rel in t1： -1
+GT:  50607 52169	0
+  rel in t1： -1
+GT:  50607 52079	0
+  rel in t1： -1
+GT:  50607 206432	0
+  rel in t1： -1
+GT:  50607 203364	0
+  rel in t1： -1
+GT:  50607 57890	0
+  rel in t1： -1
+GT:  50607 200668	0
+  rel in t1： -1
+GT:  50607 57221	0
+  rel in t1： -1
+GT:  50607 198091	0
+  rel in t1： -1
+GT:  50607 61242	0
+  rel in t1： -1
+GT:  50607 42177	0
+  rel in t1： -1
+GT:  50607 197709	0
+  rel in t1： -1
+GT:  50607 202607	0
+  rel in t1： -1
+GT:  50607 207221	0
+  rel in t1： -1
+GT:  50607 64477	0
+  rel in t1： -1
+GT:  50607 197721	0
+  rel in t1： -1
+GT:  50607 203272	0
+  rel in t1： -1
+GT:  50607 198525	0
+  rel in t1： -1
+GT:  50607 203188	0
+  rel in t1： -1
+GT:  50607 206401	0
+  rel in t1： -1
+GT:  50607 206890	0
+  rel in t1： -1
+GT:  50607 207101	0
+  rel in t1： -1
+GT:  50607 203157	0
+  rel in t1： -1
+GT:  50607 198389	0
+  rel in t1： -1
+GT:  3356 6453	0
+  rel in t1： -1
+GT:  3356 174	0
+  rel in t1： -1
+GT:  3356 3257	0
+  rel in t1： -1
+GT:  3356 3491	0
+  rel in t1： -1
+GT:  3356 26615	0
+  rel in t1： -1
+GT:  48347 8395	0
+  rel in t1： -1
+GT:  50607 12985	0
+  rel in t1： -1
+GT:  3356 6762	0
+  rel in t1： -1
+GT:  50607 196776	0
+  rel in t1： -1
+GT:  3356 6939	0
+  rel in t1： -1
+GT:  1299 209	0
+  rel in t1： -1
+GT:  3356 12956	0
+  rel in t1： -1
+GT:  3356 1299	0
+  rel in t1： -1
+GT:  3356 2914	0
+  rel in t1： -1
+GT:  3356 1239	0
+  rel in t1： -1
+GT:  3356 7843	0
+  rel in t1： -1
+GT:  3356 6461	0
+  rel in t1： -1
+GT:  3356 4637	0
+  rel in t1： -1
+GT:  3356 701	0
+  rel in t1： -1
+GT:  3356 2497	0
+  rel in t1： -1
+GT:  3356 7018	0
+  rel in t1： -1
+GT:  3356 3320	0
+  rel in t1： -1
+GT:  3356 4766	0
+  rel in t1： -1
+GT:  3356 2828	0
+  rel in t1： -1
+GT:  3356 20115	0
+  rel in t1： -1
+GT:  3356 5511	0
+  rel in t1： -1
+GT:  3356 6830	0
+  rel in t1： -1
+GT:  3356 1273	0
+  rel in t1： -1
+GT:  3356 3209	0
+  rel in t1： -1
+GT:  25180 29668	0
+  rel in t1： -1
+GT:  25180 50300	0
+  rel in t1： -1
+GT:  2914 7922	0
+  rel in t1： -1
+GT:  3356 17922	0
+  rel in t1： -1
+GT:  16735 8167	0
+  rel in t1： -1
+GT:  16735 10429	0
+  rel in t1： -1
+GT:  6461 209	0
+  rel in t1： -1
+GT:  5511 6939	0
+  rel in t1： -1
+GT:  6461 2914	0
+  rel in t1： -1
+GT:  3356 702	0
+  rel in t1： -1
+GT:  3356 3786	0
+  rel in t1： -1
+GT:  3356 33287	0
+  rel in t1： -1
+GT:  3356 7015	0
+  rel in t1： -1
+GT:  3356 22909	0
+  rel in t1： -1
+GT:  3356 15557	0
+  rel in t1： -1
+GT:  3356 33491	0
+  rel in t1： -1
+GT:  3356 3303	0
+  rel in t1： -1
+GT:  3356 15169	0
+  rel in t1： -1
+GT:  3356 2686	0
+  rel in t1： -1
+GT:  3356 7725	0
+  rel in t1： -1
+GT:  3356 7016	0
+  rel in t1： -1
+GT:  29608 12654	0
+  rel in t1： -1
+GT:  3356 33489	0
+  rel in t1： -1
+GT:  3356 33650	0
+  rel in t1： -1
+GT:  3356 33662	0
+  rel in t1： -1
+GT:  3356 1257	0
+  rel in t1： -1
+GT:  44530 35661	0
+  rel in t1： -1
+GT:  3356 286	0
+  rel in t1： -1
+GT:  3356 33651	0
+  rel in t1： -1
+GT:  3356 33667	0
+  rel in t1： -1
+GT:  3356 33668	0
+  rel in t1： -1
+GT:  62047 30851	0
+  rel in t1： -1
+GT:  3356 3292	0
+  rel in t1： -1
+GT:  3356 33660	0
+  rel in t1： -1
+GT:  3491 6939	0
+  rel in t1： -1
+GT:  6453 3786	0
+  rel in t1： -1
+GT:  6453 3462	0
+  rel in t1： -1
+GT:  16735 12989	0
+  rel in t1： -1
+GT:  3491 4134	0
+  rel in t1： -1
+GT:  3356 13367	0
+  rel in t1： -1
+GT:  3356 33490	0
+  rel in t1： -1
+GT:  3356 33652	0
+  rel in t1： -1
+GT:  16735 52320	0
+  rel in t1： -1
+GT:  16735 2688	0
+  rel in t1： -1
+GT:  3356 20214	0
+  rel in t1： -1
+GT:  37468 37187	0
+  rel in t1： -1
+GT:  52320 28669	0
+  rel in t1： -1
+GT:  9002 3216	0
+  rel in t1： -1
+GT:  9002 57629	0
+  rel in t1： -1
+GT:  44530 12876	0
+  rel in t1： -1
+GT:  6453 8220	0
+  rel in t1： -1
+GT:  9002 31133	0
+  rel in t1： -1
+GT:  3356 7474	0
+  rel in t1： -1
+GT:  33891 3223	0
+  rel in t1： -1
+GT:  44530 39647	0
+  rel in t1： -1
+GT:  9002 3223	0
+  rel in t1： -1
+GT:  44530 44994	0
+  rel in t1： -1
+GT:  9198 208664	0
+  rel in t1： -1
+GT:  9002 5588	0
+  rel in t1： -1
+GT:  9198 29355	0
+  rel in t1： -1
+GT:  3356 12322	0
+  rel in t1： -1
+GT:  3356 6848	0
+  rel in t1： -1
+GT:  3356 8075	0
+  rel in t1： -1
+GT:  44530 50032	0
+  rel in t1： -1
+GT:  3356 13414	0
+  rel in t1： -1
+GT:  44530 60129	0
+  rel in t1： -1
+GT:  44530 199422	0
+  rel in t1： -1
+GT:  9198 21282	0
+  rel in t1： -1
+GT:  29608 200162	0
+  rel in t1： -1
+GT:  9198 209120	0
+  rel in t1： -1
+GT:  9198 39763	0
+  rel in t1： -1
+GT:  9198 60286	0
+  rel in t1： -1
+GT:  29608 196633	0
+  rel in t1： -1
+GT:  9198 22764	0
+  rel in t1： -1
+GT:  44530 25091	0
+  rel in t1： -1
+GT:  29608 59520	0
+  rel in t1： -1
+GT:  9198 43215	0
+  rel in t1： -1
+GT:  9198 200532	0
+  rel in t1： -1
+GT:  9198 203087	0
+  rel in t1： -1
+GT:  44530 44141	0
+  rel in t1： -1
+GT:  29608 205010	0
+  rel in t1： -1
+GT:  9198 203886	0
+  rel in t1： -1
+GT:  50607 48712	0
+  rel in t1： -1
+GT:  3356 58453	0
+  rel in t1： -1
+GT:  29608 50982	0
+  rel in t1： -1
+GT:  50607 8458	0
+  rel in t1： -1
+GT:  9198 43994	0
+  rel in t1： -1
+GT:  9198 58033	0
+  rel in t1： -1
+GT:  6453 15169	0
+  rel in t1： -1
+GT:  9198 48096	0
+  rel in t1： -1
+GT:  9198 43370	0
+  rel in t1： -1
+GT:  9198 50386	0
+  rel in t1： -1
+GT:  9198 209416	0
+  rel in t1： -1
+GT:  9198 48007	0
+  rel in t1： -1
+GT:  9198 48450	0
+  rel in t1： -1
+GT:  9198 60186	0
+  rel in t1： -1
+GT:  9198 35673	0
+  rel in t1： -1
+GT:  9198 8430	0
+  rel in t1： -1
+GT:  9198 48502	0
+  rel in t1： -1
+GT:  9198 20578	0
+  rel in t1： -1
+GT:  9198 203481	0
+  rel in t1： -1
+GT:  9198 62111	0
+  rel in t1： -1
+GT:  9198 60411	0
+  rel in t1： -1
+GT:  9198 208450	0
+  rel in t1： -1
+GT:  9198 51340	0
+  rel in t1： -1
+GT:  9198 204514	0
+  rel in t1： -1
+GT:  9198 8200	0
+  rel in t1： -1
+GT:  9198 51979	0
+  rel in t1： -1
+GT:  9198 60708	0
+  rel in t1： -1
+GT:  9198 15549	0
+  rel in t1： -1
+GT:  9198 203167	0
+  rel in t1： -1
+GT:  9198 204706	0
+  rel in t1： -1
+GT:  9198 208356	0
+  rel in t1： -1
+GT:  3356 7713	0
+  rel in t1： -1
+GT:  29075 41653	0
+  rel in t1： -1
+GT:  50607 196858	0
+  rel in t1： -1
+GT:  50607 31304	0
+  rel in t1： -1
+GT:  35369 8387	0
+  rel in t1： -1
+GT:  44530 60804	0
+  rel in t1： -1
+GT:  31424 34554	0
+  rel in t1： -1
+GT:  3356 9605	0
+  rel in t1： -1
+GT:  8359 3216	0
+  rel in t1： -1
+GT:  20764 9049	0
+  rel in t1： -1
+GT:  3216 31133	0
+  rel in t1： -1
+GT:  3216 20485	0
+  rel in t1： -1
+GT:  37468 265912	0
+  rel in t1： -1
+GT:  15557 44842	0
+  rel in t1： -1
+GT:  48347 59584	0
+  rel in t1： -1
+GT:  31216 39072	0
+  rel in t1： -1
+GT:  9002 29076	0
+  rel in t1： -1
+GT:  3356 4648	0
+  rel in t1： -1
+GT:  12389 8359	0
+  rel in t1： -1
+GT:  28917 1820	0
+  rel in t1： -1
+GT:  28917 47626	0
+  rel in t1： -1
+GT:  50607 25084	0
+  rel in t1： -1
+GT:  44530 60032	0
+  rel in t1： -1
+GT:  50607 204873	0
+  rel in t1： -1
+GT:  29608 201080	0
+  rel in t1： -1
+GT:  44530 30889	0
+  rel in t1： -1
+GT:  44530 35393	0
+  rel in t1： -1
+GT:  44530 43930	0
+  rel in t1： -1
+GT:  44530 20766	0
+  rel in t1： -1
+GT:  44530 202069	0
+  rel in t1： -1
+GT:  44530 200780	0
+  rel in t1： -1
+GT:  44530 205801	0
+  rel in t1： -1
+GT:  44530 64476	0
+  rel in t1： -1
+GT:  44530 9036	0
+  rel in t1： -1
+GT:  29608 199396	0
+  rel in t1： -1
+GT:  50607 51101	0
+  rel in t1： -1
+GT:  44530 201675	0
+  rel in t1： -1
+GT:  50607 35115	0
+  rel in t1： -1
+GT:  14840 28639	0
+  rel in t1： -1
+GT:  44530 59689	0
+  rel in t1： -1
+GT:  52320 6507	0
+  rel in t1： -1
+GT:  52320 28666	0
+  rel in t1： -1
+GT:  44530 52075	0
+  rel in t1： -1
+GT:  43727 61237	0
+  rel in t1： -1
+GT:  43727 24689	0
+  rel in t1： -1
+GT:  48347 60472	0
+  rel in t1： -1
+GT:  29075 8487	0
+  rel in t1： -1
+GT:  29075 198385	0
+  rel in t1： -1
+GT:  31424 20612	0
+  rel in t1： -1
+GT:  9002 6876	0
+  rel in t1： -1
+GT:  37468 327833	0
+  rel in t1： -1
+GT:  44530 29169	0
+  rel in t1： -1
+GT:  44530 57928	0
+  rel in t1： -1
+GT:  44530 41157	0
+  rel in t1： -1
+GT:  15672 56975	0
+  rel in t1： -1
+GT:  15672 35455	0
+  rel in t1： -1
+GT:  48347 49106	0
+  rel in t1： -1
+GT:  15672 57512	0
+  rel in t1： -1
+GT:  48347 51009	0
+  rel in t1： -1
+GT:  50607 203985	0
+  rel in t1： -1
+GT:  15672 33888	0
+  rel in t1： -1
+GT:  50607 204744	0
+  rel in t1： -1
+GT:  7575 4608	0
+  rel in t1： -1
+GT:  50607 203261	0
+  rel in t1： -1
+GT:  13237 35280	0
+  rel in t1： -1
+GT:  13237 15533	0
+  rel in t1： -1
+GT:  13237 60868	0
+  rel in t1： -1
+GT:  44530 34019	0
+  rel in t1： -1
+GT:  14840 2716	0
+  rel in t1： -1
+GT:  15412 2635	0
+  rel in t1： -1
